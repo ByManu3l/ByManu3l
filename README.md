@@ -1,16 +1,33 @@
-## Hi there 👋
+# Juan Manuel Romero Pineda
 
-<!--
-**ByManu3l/ByManu3l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer and Software Engineering student at Universidad Surcolombiana (Neiva, Colombia). I build and ship web applications end to end — database, API, UI, and deployment.
 
-Here are some ideas to get you started:
+## GritBase — gym-management SaaS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Production platform for gyms across web (PWA), desktop, and mobile, with offline-first sync.
+
+**Stack:** Next.js (App Router), TypeScript, Supabase (PostgreSQL, Auth, RLS), PowerSync, Tauri, Turborepo, Vercel.
+
+**Highlights:** online payments (Wompi/Stripe), QR check-in, PDF generation, web-push, es/en i18n, CI/CD with Playwright e2e + Vitest, 45 database migrations.
+
+**Live:** https://gritbase-web.vercel.app
+
+## Tech
+
+**Languages:** TypeScript, JavaScript, Python, Java, Kotlin, PHP, SQL.
+
+**Frontend:** React, Next.js, Tailwind CSS, PWA.
+
+**Backend:** Node.js, REST APIs, Supabase (PostgreSQL, Auth, RLS), PowerSync.
+
+**Infra & Tooling:** Vercel, Turborepo, CI/CD, Playwright, Vitest, Git, Linux.
+
+## Currently
+
+Building GritBase and finishing my Software Engineering degree (11th semester). Open to full-stack and backend roles.
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/juan-manuel-romero-pineda
+
+Email: jumarop2225@gmail.com
