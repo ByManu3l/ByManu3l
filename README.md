@@ -29,7 +29,7 @@ SaaS multi-gimnasio en producción, con clientes que pagan, para gimnasios de ba
 | Proyecto | Qué es | Lo destacable | Stack |
 | --- | --- | --- | --- |
 | **Pacandé** | E-commerce full-stack listo para adaptar a cualquier negocio: catálogo, carrito, cupones, opiniones, checkout y panel de administración. | 189 pruebas automáticas contra Postgres real, control de stock ante compras simultáneas, importes en decimal exacto y cero infracciones WCAG 2.1 AA. | Next.js · TypeScript · Prisma · PostgreSQL · Auth.js · Playwright |
-| **Plataforma bancaria** | API REST para administrar clientes, cuentas de ahorro y corriente, y transacciones (consignaciones, retiros y transferencias), con frontend web. | 90 pruebas y 94,8 % de cobertura, transacciones ACID con control de concurrencia, patrón Strategy, cálculo del GMF y migraciones con Flyway. | Java 17 · Spring Boot 3 · JPA · PostgreSQL · React · Docker |
+| **[Plataforma bancaria](https://github.com/ByManu3l/prueba-tecnica-bancaria)** | API REST para administrar clientes, cuentas de ahorro y corriente, y transacciones (consignaciones, retiros y transferencias), con frontend web. | 90 pruebas y 94,8 % de cobertura, transacciones ACID con control de concurrencia, patrón Strategy, cálculo del GMF y migraciones con Flyway. | Java 17 · Spring Boot 3 · JPA · PostgreSQL · React · Docker |
 | **STOCKERR** | Sistema de inventario por microservicios (proyecto académico en equipo, Scrum). | API Gateway y 10 servicios (autenticación, usuarios, productos, categorías, inventario, proveedores, códigos de barras, exportación, configuración y auditoría) con JWT/RBAC. | Node.js · Express · PostgreSQL · Docker · React |
 
 ## Stack técnico
