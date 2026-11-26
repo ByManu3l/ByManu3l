@@ -47,7 +47,7 @@ Abierto a roles full-stack y backend.
   API REST en Java y Spring Boot para clientes, cuentas y transacciones con control de concurrencia. 90 pruebas y 94,8 % de cobertura.
 
 - **[Pacandé](https://github.com/ByManu3l/PACANDE)**  
-  Plantilla de e-commerce con Next.js, Prisma y PostgreSQL: catálogo, carrito, pedidos y panel de administración. 189 pruebas automáticas.
+  Tienda en línea con Next.js, TypeScript, Prisma y PostgreSQL: catálogo, carrito, pedidos y panel de administración. Proyecto académico reescrito desde cero; código abierto.
 
 - **[STOCKERR](https://github.com/BauPP/stockerr1)**  
   Inventario por microservicios con Node.js, Express y Docker. Proyecto en equipo de la universidad.
