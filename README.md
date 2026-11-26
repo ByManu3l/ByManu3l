@@ -24,7 +24,7 @@ Software de gestión para gimnasios en Colombia: clientes, cobros, asistencia, r
 
 **[Plataforma bancaria](https://github.com/ByManu3l/prueba-tecnica-bancaria)**: API REST en Java y Spring Boot para clientes, cuentas y transacciones con control de concurrencia. 90 pruebas y 94,8 % de cobertura.
 
-**Pacandé**: plantilla de e-commerce con Next.js, Prisma y PostgreSQL. Incluye catálogo, carrito, pedidos y panel de administración, con 189 pruebas automáticas.
+**[Pacandé](https://github.com/ByManu3l/PACANDE)**: plantilla de e-commerce con Next.js, Prisma y PostgreSQL. Incluye catálogo, carrito, pedidos y panel de administración, con 189 pruebas automáticas.
 
 **[STOCKERR](https://github.com/BauPP/stockerr1)**: inventario por microservicios con Node.js, Express y Docker. Proyecto en equipo de la universidad.
 
