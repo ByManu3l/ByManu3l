@@ -4,12 +4,12 @@
 
 **Ingeniero de software full-stack** · Neiva, Colombia
 
-Construyo productos web completos y los mantengo en producción.<br>
+Construyo software de principio a fin: aplicaciones web, de escritorio y móviles,<br>
+APIs, bases de datos y despliegue, y lo mantengo en producción.<br>
 Abierto a roles full-stack y backend.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-manuel-romero-pineda)
 [![Correo](https://img.shields.io/badge/Correo-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jumarop2225@gmail.com)
-[![gritbase.app](https://img.shields.io/badge/gritbase.app-F97316?style=flat-square&logo=googlechrome&logoColor=white)](https://gritbase.app)
 
 <br>
 
