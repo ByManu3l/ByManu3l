@@ -14,8 +14,8 @@ Abierto a roles full-stack y backend.
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,java,react,nextjs,nodejs,spring,postgres,supabase,docker,githubactions,cloudflare&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,java,react,nextjs,nodejs,spring,postgres,supabase,docker,githubactions,cloudflare&theme=light">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjava%2Creact%2Cnextjs%2Cnodejs%2Cspring%2Cpostgres%2Csupabase%2Cdocker%2Cgithubactions%2Ccloudflare&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts%2Cjava%2Creact%2Cnextjs%2Cnodejs%2Cspring%2Cpostgres%2Csupabase%2Cdocker%2Cgithubactions%2Ccloudflare&theme=light">
   <img src="https://skillicons.dev/icons?i=ts,java,react,nextjs,nodejs,spring,postgres,supabase,docker,githubactions,cloudflare" alt="TypeScript, Java, React, Next.js, Node.js, Spring Boot, PostgreSQL, Supabase, Docker, GitHub Actions, Cloudflare" height="40">
 </picture>
 
