@@ -45,7 +45,7 @@ Abierto a roles full-stack y backend.
 
 | Proyecto | Qué es |
 | :-- | :-- |
-| **[Plataforma bancaria](https://github.com/ByManu3l/prueba-tecnica-bancaria)** | API REST en Java y Spring Boot para clientes, cuentas y transacciones con control de concurrencia. 90 pruebas y 94,8 % de cobertura. |
+| **[Plataforma&nbsp;bancaria](https://github.com/ByManu3l/prueba-tecnica-bancaria)** | API REST en Java y Spring Boot para clientes, cuentas y transacciones con control de concurrencia. 90 pruebas y 94,8 % de cobertura. |
 | **[Pacandé](https://github.com/ByManu3l/PACANDE)** | Plantilla de e-commerce con Next.js, Prisma y PostgreSQL: catálogo, carrito, pedidos y panel de administración. 189 pruebas automáticas. |
 | **[STOCKERR](https://github.com/BauPP/stockerr1)** | Inventario por microservicios con Node.js, Express y Docker. Proyecto en equipo de la universidad. |
 
